@@ -69,3 +69,8 @@ phonegap local plugin remove /PATH_TO_TEALIUM_PLUGIN/
 ```
 > ```phonegap plugin list``` can help you find the plugin names
 
+
+
+--------------------------------------------
+
+Copyright (C) 2012-2015, Tealium Inc.
